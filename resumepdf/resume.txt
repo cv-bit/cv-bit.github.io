@@ -1,0 +1,37 @@
+Cameron Verver
+214-527-7552 | ververcameron29@gmail.com | Garland, TX 75041
+SUMMARY
+Enthusiastic Software Developer eager to contribute to team success through hard work, attention
+to detail and excellent organizational skills. Motivated to learn, grow, and excel in Development.
+Https://cv-bit.github.io
+
+SKILLS
+Java, Spring Tool suite
+HTML
+CSS, Bootstrap
+Javascript, jQuery
+MySQL
+Git, GitHub
+
+EDUCATION AND TRAINING
+Certificate
+Full Stack Development, Coding Dojo, Dallas, Tx
+
+PROJECTS
+
+	Pizza place
+	Built using java and spring boot, HTML, CSS, and Javascript
+	Mock pizza ordering website
+	Using MySQL for storing data
+	
+	Cars dot com
+	Built using Java and spring boot, HTML, CSS, Bootstrap, and Javascript
+	Mock cars social website that has user login and registration can make own profile and like
+	and rate other users cars
+	Using MySQL for storing data
+	
+	Movies dot com
+	Built using Java and spring boot, HTML, CSS, Bootstrap and Javascript
+	Similar to IMDB a website utilizing the omdb api that allows users to search for any movie and
+	view descriptions
+	Using MySQL for storing dat
