@@ -86,3 +86,13 @@
     width: 100%;
     float: right;
 }
+
+.info {
+    margin:10px;
+    display:inline-block;
+    align-items:stretch;
+    width: 60vw;
+    margin-left: 30px;
+    color: black;
+}
+
